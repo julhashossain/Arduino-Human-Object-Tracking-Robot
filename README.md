@@ -107,7 +107,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 
 <!-- CONTRIBUTING -->
-## --------------------------------------------------------------------------------------------------
+## 
 [![Thanks][thanks]](Images/Thanks.png)
 
 
