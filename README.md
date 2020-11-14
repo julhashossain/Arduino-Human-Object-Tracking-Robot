@@ -43,19 +43,10 @@ Making Arduino Human or Object tracking Robot using Pixy2 Camera
 
 [![Product Name Screen Shot][product-screenshot]](Images/Robot.jpg)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+In this project will make a human or object following omnidirectional robot using Arduino and Pixy2 vision camera. The making of the project is relatively easy. As a beginner, you may make this project easily. If you do not have a 3D printer, you may use PVC boards to complete the project structure.  
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+To build the project, we have used two different software. Those are: 
 * [Arduino](https://www.arduino.cc/en/software)
 * [PixyMon v2](https://pixycam.com/downloads-pixy2/)
 
@@ -64,12 +55,11 @@ This section should list any major frameworks that you built your project using.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Let's start making.
 
 ### Required Hardwares
 
-This is an example of how to list things you need to use the software and how to install them.
+The list of hardware you will need to make the project is given below:  
 * 3D Printed Structures
 * Arduino UNO
 * Pixy2
@@ -93,7 +83,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Circuit Diagram
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Here is the complete circuit diagram of the project. 
 
 [![Circuit Diagram][circuit-diagram]](Circuit/Circuit.jpg)
 
@@ -101,7 +91,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 <!-- ROADMAP -->
 ## Testing
-
+Here is the testing result. Click on the GIF to watch the full project making tutorial on YouTube.
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 
