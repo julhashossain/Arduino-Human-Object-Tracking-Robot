@@ -92,8 +92,12 @@ Here is the complete circuit diagram of the project.
 <!-- ROADMAP -->
 ## Testing
 Here is the testing result. Click on the GIF to watch the full project making tutorial on YouTube.
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
+<p align="center">
+  <a href="#">
+    <img src="Images/Test.gif" alt="Logo">
+  </a>
+    <br />
 
 
 <!-- CONTRIBUTING -->
@@ -120,3 +124,4 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 [product-screenshot]: Images/Robot.jpg
 [circuit-diagram]: Circuit/Circuit.jpg
 [thanks]: Images/Thanks.png
+[test]: Images/Test.gif
